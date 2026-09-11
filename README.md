@@ -1,57 +1,31 @@
-## Building in public
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ma. Aliza Lomugdang
+============================================================================================================================================
 
-<div align="center">
+Full-stack Web App and Web Developer
+------------------------------------
 
-# SynTech Aliza
+Self-taught developer from Antique, Philippines. I craft clean, functional digital experiences — from pixel-perfect front-ends to robust back-end systems.
 
-> Technical founder
+* 🌍  I'm based in Philippines
+* ✉️  You can contact me at [mariaalizalomugdang@gmail.com](mailto:mariaalizalomugdang@gmail.com)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=syntech-aliza&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160107322%3Fu%3Db2ffe8412684d317f76ac7451a08dc052e0dd936%26v%3D4" alt="syntech-aliza hero visual" />
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
 </p>
 
-</div>
+### Socials
 
-## The point of view
+<p align="left"> <a href="https://www.github.com/SynTech-Aliza" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ma-aliza-lomugdang-957988245" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/mariaaliza.lomugdang" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<a href="https://www.github.com/SynTech-Aliza" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SynTech-Aliza?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
-> Full-Stack Web Developer building scalable web applications, management systems, and business solutions.
+<b>My GitHub Stats</b>
 
-- 📍 Based in **Kalibo, Aklan**
-- 🏢 Working at **SynTech**
-- 🌐 [Website](https://masl.rf.gd/)
-- 👥 **0** followers · **0** following
+<a href="http://www.github.com/SynTech-Aliza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SynTech-Aliza&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-*Small, useful work over vague claims.*
+<a href="https://github.com/SynTech-Aliza" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynTech-Aliza&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## What I’m shipping
+<b>Top Repositories</b>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=syntech-aliza&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160107322%3Fu%3Db2ffe8412684d317f76ac7451a08dc052e0dd936%26v%3D4" alt="syntech-aliza highlights visual" />
-</p>
-
-<p><b>SynTech Aliza</b> is shipping 6 public projects with 0 stars of proof.</p>
-
-## Products and proof
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/SynTech-Aliza/craftsbyms">craftsbyms</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Hack · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/SynTech-Aliza/verseday">verseday</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Dart · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/SynTech-Aliza/flames_apk">flames_apk</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Dart · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/SynTech-Aliza/k_alert_app">k_alert_app</a></b></td><td>K Alert App is a real-time emergency mobile application designed to enhance safety for tricycle passengers. Built to bridge the communication gap during critical situations, the app enables passengers to issue immediate distress signals to response teams, broadcast live GPS tracking, and transmit incident context for rapid emergency deployment.<br/><sub>Dart · 0 stars</sub></td></tr>
-</table>
-
-## Momentum
-
-<table>
-<tr><td align="center"><b>6</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>44</b><br/><sub>contributions</sub></td></tr>
-</table>
-
-## Start a conversation
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=syntech-aliza&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160107322%3Fu%3Db2ffe8412684d317f76ac7451a08dc052e0dd936%26v%3D4" alt="syntech-aliza social visual" />
-</p>
-
-<a href="https://github.com/syntech-aliza">GitHub</a> · <a href="https://masl.rf.gd/">Website</a>
-
-<p align="center"><sub>SynTech Aliza · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
