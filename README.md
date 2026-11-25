@@ -1,31 +1,57 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aliza
-==============================================================================================================================
+## Delivery pipeline
 
-Full-stack Web App and Web Developer
-------------------------------------
-
-Self-taught developer from Antique, Philippines. I craft clean, functional digital experiences — from pixel-perfect front-ends to robust back-end systems.
-
-* 🌍  I'm based in Philippines
-* ✉️  You can contact me at [mariaalizalomugdang@gmail.com](mailto:mariaalizalomugdang@gmail.com)
-
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=syntech-aliza&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160107322%3Fu%3D603f32f50577465b7487bd2ba3eff76f62f789a9%26v%3D4" alt="syntech-aliza hero visual" />
 </p>
 
-### Socials
+**SynTech Aliza** · Frontend or full-stack engineer
 
-<p align="left"> <a href="https://www.github.com/SynTech-Aliza" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ma-aliza-lomugdang-957988245" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/mariaaliza.lomugdang" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/SynTech-Aliza" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SynTech-Aliza?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
-### Badges
+## Operating principles
 
-<b>My GitHub Stats</b>
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = Kalibo, Aklan
+PUBLIC_REPOS = 15
+COMMUNITY   = 0 followers</code></pre>
 
-<a href="http://www.github.com/SynTech-Aliza"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SynTech-Aliza&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+Full-Stack Web Developer building scalable web applications, management systems, and business solutions.
 
-<a href="https://github.com/SynTech-Aliza" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynTech-Aliza&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Uptime in motion
 
-<b>Top Repositories</b>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=syntech-aliza&theme=github-dark" alt="syntech-aliza contribution activity" />
+</p>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+## Service signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=syntech-aliza&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160107322%3Fu%3D603f32f50577465b7487bd2ba3eff76f62f789a9%26v%3D4" alt="syntech-aliza stats visual" />
+</p>
+
+<p><code>142 contributions</code> · <code>2 day streak</code></p>
+
+## Infrastructure shipped
+
+- **[FlashRev](https://github.com/SynTech-Aliza/FlashRev)** — Flashcard reviewer for students · ⭐ 0
+- **[Akean-Go-Alert-App](https://github.com/SynTech-Aliza/Akean-Go-Alert-App)** — Featured public work · ⭐ 0
+- **[eAkean-Go](https://github.com/SynTech-Aliza/eAkean-Go)** — Featured public work · ⭐ 0
+- **[craftsbyms](https://github.com/SynTech-Aliza/craftsbyms)** — Featured public work · ⭐ 0
+- **[verseday](https://github.com/SynTech-Aliza/verseday)** — Featured public work · ⭐ 0
+- **[flames_apk](https://github.com/SynTech-Aliza/flames_apk)** — Featured public work · ⭐ 0
+
+## Platform toolkit
+
+<p><code>syntech-aliza@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=syntech-aliza&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160107322%3Fu%3D603f32f50577465b7487bd2ba3eff76f62f789a9%26v%3D4" alt="syntech-aliza stack visual" />
+</p>
+
+## Keep it moving
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=syntech-aliza&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160107322%3Fu%3D603f32f50577465b7487bd2ba3eff76f62f789a9%26v%3D4" alt="syntech-aliza social visual" />
+</p>
+
+<a href="https://github.com/syntech-aliza">GitHub</a> · <a href="https://masl.rf.gd/">Website</a>
+
+<p align="center"><sub>SynTech Aliza · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
